@@ -44,7 +44,7 @@ El proyecto se divide en varios paquetes y clases:
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-monedas.git
+   git clone [https://github.com/tu-usuario/conversor-de-monedas.git](https://github.com/IvanGt1/Divisas)
 2. Importar el Proyecto en el IDE
 
 1. **Abra su IDE de Java preferido.**
